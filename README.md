@@ -50,7 +50,8 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 </div>
 <img src="https://img.shields.io/badge/-Google_Project_Management_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
 </div>
-
+<img src="https://img.shields.io/badge/-Google_Data_Analyst_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
+</div>
 
 
   <******Wireshark Ping Disney.com******>
