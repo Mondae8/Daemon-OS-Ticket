@@ -56,7 +56,7 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 ## Leadership
 
 <div>
-  img src="https://img.shields.io/badge/Yale:_The_Science_of Well_Being %2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
   
