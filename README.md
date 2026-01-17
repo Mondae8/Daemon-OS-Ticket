@@ -53,7 +53,13 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 <img src="https://img.shields.io/badge/-Google_Data_Analyst_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
 </div>
 
+## Leadership
 
+<div>
+  img src="https://img.shields.io/badge/-Yale:_The_Science_of Well_Being %2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+
+  
   <******Wireshark Ping Disney.com******>
 
   
