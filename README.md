@@ -1,6 +1,7 @@
 <h1>Hi, I'm Daemon! IT Cloud Specialist, Cloud Security Specialist, Cybersecurity Professional, Network Engineer and Project Manager
 
 <div>
+
   Strategic IT and Network Operations professional with 13+ years of AT&T telecom experience, specializing in Network Infrastructure, Cybersecurity, Cloud systems
   (AWS and Azure), and Technical Team Leadership. Proven ability to design, implement, and optimize IP Voice, Mobility, and Security networks while leading cross‑functional teams through high‑stakes operational environments. Adept at incident response, performance monitoring, and stakeholder communication. Combines hands‑on technical expertise with project management, training development, and operational excellence.
   
