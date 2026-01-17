@@ -1,10 +1,8 @@
 <h1>Hi, I'm Daemon! IT Cloud Specialist, Cloud Security Specialist, Cybersecurity Professional, Network Engineer and Project Manager
 
-  I am pursuing a Cybersecurity Degree at Western Governors University (WGU) to gain comprehensive knowledge to advance my career through a competency-based education model, and earn valuable industry certifications 
-
-## Objective
-I am pursuing a Cybersecurity Degree at Western Governors University (WGU) to gain comprehensive knowledge to advance my career through a competency-based education model, and earn valuable industry certifications 
-I aim to use my skills and knowledge to make a meaningful impact, preventing cybercrimes, and creating a resilient digital landscape..
+  Strategic IT and Network Operations professional with 13+ years of AT&T telecom experience, specializing in Network Infrastructure, Cybersecurity, Cloud systems
+  (AWS and Azure), and Technical Team Leadership. Proven ability to design, implement, and optimize IP Voice, Mobility, and Security networks while leading cross‑functional teams through high‑stakes operational environments. Adept at incident response, performance monitoring, and stakeholder communication. Combines hands‑on technical expertise with project management, training development, and operational excellence.
+  
 
   
   
