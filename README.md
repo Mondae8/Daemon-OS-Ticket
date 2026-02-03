@@ -57,8 +57,13 @@
 
 <div>
   <img src="https://img.shields.io/badge/-Yale:_The_Science_of_Well_Being_Certification-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-University_of_Michigan_Leading_Diverse_Teams_&_Organizations-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+ 
+  <img src="https://img.shields.io/badge/University_of_Colorado_Agile_Leadership-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<div>
 
-
+  
+  
   
   <******Wireshark Ping Disney.com******>
 
